@@ -1,0 +1,21 @@
+#result {
+    outline: 1px solid;
+    margin-left: 30%;
+    margin-right: 30%;
+    text-align: center;
+    padding: 20px;
+    font-size: 5em;
+}
+
+.btn-container {
+    text-align: center;
+    padding: 20px;
+}
+
+.btn {
+    padding: 10px;
+    margin: 5px;
+    font-size: 20px;
+    background-color: cornflowerblue;
+    border-radius: 5px;
+}
